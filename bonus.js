@@ -109,8 +109,6 @@ function gaugeChart(data) {
       }],
 
     title: '<b>Belly Button Washing Frequency</b> <br> <b>Scrub Per Week</b>',
-    height: 550,
-    width: 550,
     xaxis: {zeroline:false, showticklabels:false,
                showgrid: false, range: [-1, 1]},
     yaxis: {zeroline:false, showticklabels:false,
