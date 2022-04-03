@@ -50,6 +50,7 @@ body {
   .active, .panel:hover {
     border-color:rgb(52, 149, 165);
     border-style: solid;
+    background-color:transparent
     
   }
   .vizualization {
@@ -75,7 +76,7 @@ body {
     margin-bottom: 60px;
     padding: 10px 30px 10px;
     color: #000000;
-    background-color: rgb(0, 0, 0);
+    background-color:transparent;
   
   }
   
