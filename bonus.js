@@ -104,11 +104,13 @@ function gaugeChart(data) {
         path: path,
         fillcolor: '#2F6497',
         line: {
-          color: '#2F6497'
+          color: '#2F6497',
         }
       }],
 
     title: '<b>Belly Button Washing Frequency</b> <br> <b>Scrub Per Week</b>',
+    height: 457.5,
+    width: 450,
     xaxis: {zeroline:false, showticklabels:false,
                showgrid: false, range: [-1, 1]},
     yaxis: {zeroline:false, showticklabels:false,
