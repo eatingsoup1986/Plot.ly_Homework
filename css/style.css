@@ -1,6 +1,6 @@
 body {
-    background-image: url("https://i.pinimg.com/564x/0a/e3/ce/0ae3ce8a13b763f235656aaafc6c98d1.jpg");
-    height: 750px;
+    background-image: url("https://i.pinimg.com/564x/aa/7d/ef/aa7defb28c528954ab89cf638c0ecaf7.jpg");
+    height: 100px;
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -59,23 +59,23 @@ body {
   }
   
   .title {
-    color: rgb(165, 52, 52);
+    color: rgb(46, 29, 29);
     font-family: cochin;
     font-weight: bolder;
     padding-top: 10px;
   }
   
-  p {
-  color: rgb(52, 149, 165);
+  .panel-body {
+  color: rgb(252, 252, 252);
   font-family: 'segoe ui';
   font-size: 16px;
   }
   
-  .box {
-    margin-top: 50px;
-    margin-bottom: 60px;
+  .container {
+    margin-top: 100px;
+    margin-bottom: 100px;
     padding: 10px 30px 10px;
-    color: #000000;
+    color: #ffffff;
     background-color:transparent;
   
   }
@@ -83,14 +83,14 @@ body {
   .table {
     font-size: 15px;
     border-top-color: rgb(3, 3, 3);
-    color: #ffffff
+    color: #000000
   }
   
   footer {
-  background-color: #000000;
+  background-color: #0f1527;
   border-top-style: solid;
   border-top-width: 5px;
-  border-top-color: rgb(37, 80, 87);
+  border-top-color: rgb(15, 20, 20);
   color: rgb(171, 222, 226);
   min-height: 50px;
   font-family: Menlo, Helvetica, sans-serif;
